@@ -1,6 +1,6 @@
 # aoc-2021
 **Advent of Code 2021**
 
-**Overarching strategy to this years AoC:**
+**Overarching strategy to this year's AoC:**
 
-Attempt to score points on solutions. I dont not attempt to write pretty or the most performant code
+Attempt to score points on solutions. I do not attempt to write pretty or the most performant code
